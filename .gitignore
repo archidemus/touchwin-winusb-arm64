@@ -1,0 +1,16 @@
+/build/
+/results/
+/tools/
+/TouchWin/
+*.obj
+*.lib
+*.exp
+*.pdb
+*.original.dll
+*.txp
+*.xdp
+*.log
+.env
+.env.*
+.DS_Store
+Thumbs.db

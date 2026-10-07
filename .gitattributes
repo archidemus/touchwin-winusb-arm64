@@ -1,0 +1,7 @@
+* text=auto
+*.md text eol=lf
+*.ps1 text eol=crlf
+*.c text eol=lf
+*.def text eol=lf
+*.json text eol=lf
+*.dll binary

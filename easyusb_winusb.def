@@ -1,0 +1,11 @@
+LIBRARY EasyUSB2400_XJ
+EXPORTS
+ LPC2400_GetPipeStatus=_LPC2400_GetPipeStatus@12
+ LPC2400_ReadData=_LPC2400_ReadData@16
+ LPC2400_ReadPort1=_LPC2400_ReadPort1@12
+ LPC2400_ReadPort2=_LPC2400_ReadPort2@12
+ LPC2400_ResetPipe=_LPC2400_ResetPipe@4
+ LPC2400_WriteData=_LPC2400_WriteData@16
+ LPC2400_WritePort1=_LPC2400_WritePort1@12
+ LPC2400_WritePort2=_LPC2400_WritePort2@12
+ HmiBridge_Ping=_HmiBridge_Ping@0

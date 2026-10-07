@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite this independent community interoperability project."
+type: software
+title: "XINJE TouchWin USB on Windows ARM64: TG765-ET WinUSB bridge"
+authors:
+  - family-names: Norambuena
+    given-names: Ignacio
+version: 0.1.0
+license: LicenseRef-TouchWin-WinUSB-Community-1.0
+keywords:
+  - XINJE
+  - TouchWin
+  - WinUSB
+  - Windows ARM64
+  - TG765-ET
+  - Apple Silicon

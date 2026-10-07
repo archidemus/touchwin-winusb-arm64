@@ -1,0 +1,96 @@
+TouchWin WinUSB Community License 1.0
+SPDX identifier: LicenseRef-TouchWin-WinUSB-Community-1.0
+
+Copyright (c) 2026 Ignacio Norambuena.
+Contributions remain owned by their respective copyright holders.
+Licensor: Ignacio Norambuena <ignacio@archidemus.me>
+https://github.com/archidemus
+
+1. Definitions
+"Software" means this project's code, scripts, documentation and binaries,
+including modifications and derivative works, to the extent of rights
+controlled by the Licensor.
+"XINJE Group" means Wuxi Xinje Electric Co., Ltd. (无锡信捷电气股份有限公司),
+its controlling entities, controlled entities and entities under common
+control. Control means majority voting ownership or the power to direct
+management. Contractors, agents and distributors are included only when acting
+for, on behalf of or at the direction of the XINJE Group in the relevant act.
+"Official Mention" means a reference to this Software, repository or project
+by or on behalf of the XINJE Group through an official website, manual, support
+channel, announcement, corporate social account, advertisement or other
+official communication, including official links, recommendations or promotion.
+
+2. Community permission
+Subject to all conditions of this License, the Licensor grants a worldwide,
+non-exclusive, royalty-free copyright license to use, run, study, copy, modify,
+create derivative works and distribute the Software in source or binary form,
+including for commercial purposes. Recipients obtain rights directly under
+this License. You may not sublicense the Licensor's material under terms
+removing or bypassing these conditions.
+
+3. Notices and derivative works
+Retain this License and applicable copyright notices with copies or substantial
+portions, including binary distributions. Identify material modifications.
+These conditions continue to apply to the Licensor's material in derivative
+works. They do not claim ownership of independently created work or unrelated
+software distributed alongside the Software.
+
+4. XINJE restrictions
+Community permission does not authorize the XINJE Group to host, mirror,
+publish, distribute, supply or bundle the Software or derivative works through
+websites, products, installers, support packages or other delivery channels,
+whether paid or free. Third parties may not perform these acts on behalf of
+the XINJE Group to bypass this restriction.
+
+As an express condition of exercising the permissions in section 2, the XINJE
+Group must not make any Official Mention without the Licensor's prior written
+authorization. No official promotional, endorsement or attribution right is
+granted to the XINJE Group.
+Private internal evaluation and operation remain permitted, subject to these
+restrictions and all other conditions.
+
+5. Separate commercial authorization
+Restricted redistribution, bundling, supply and Official Mentions require a
+separate written commercial agreement before they occur. That agreement must
+identify permitted acts, fees, payment terms and any permission for official
+references. This License sets no tariff, creates no automatic payment debt and
+does not authorize restricted acts merely because payment is offered.
+The Licensor may decline authorization.
+
+6. No endorsement
+No permission is granted to use names, logos or trademarks to imply endorsement,
+sponsorship, official status or affiliation. Descriptive compatibility
+identification by community users is permitted subject to law and section 4.
+This project is independent of XINJE.
+
+7. Mandatory rights and hosting-platform terms
+Nothing here restricts exceptions, limitations, lawful independent references
+or rights that applicable law does not permit the Licensor to restrict.
+The Official Mention condition operates within the lawful scope of this
+License. It does not assert that copyright controls every factual mention
+or hyperlink.
+Rights necessarily granted under an authorized hosting platform's applicable
+terms, including viewing and platform-native forking, remain in force. These
+rights do not by themselves authorize separate official redistribution,
+product bundling or promotion.
+
+8. Contributions
+Contributions require express acceptance of CONTRIBUTOR_AGREEMENT.md before
+inclusion. Contributors retain ownership. The Licensor may offer commercial
+terms only for material for which the necessary rights have been obtained.
+
+9. Termination
+Permissions terminate for a recipient who violates these conditions and may
+be restored by the Licensor in writing. Compliant downstream recipients retain
+their independent permissions. Mandatory rights are unaffected.
+
+10. Disclaimer
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED AS IS WITHOUT
+WARRANTY, INCLUDING MERCHANTABILITY, FITNESS FOR PURPOSE OR NON-INFRINGEMENT.
+THE LICENSOR AND CONTRIBUTORS ARE NOT LIABLE FOR CLAIMS OR DAMAGES ARISING
+FROM ITS USE OR DISTRIBUTION.
+
+No rights over proprietary XINJE applications, firmware, Microsoft software,
+third-party trademarks or third-party patents are granted.
+The English text controls. This custom source-available license is not
+represented as OSI-approved open source.
