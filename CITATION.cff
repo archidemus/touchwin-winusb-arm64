@@ -5,6 +5,9 @@ title: "XINJE TouchWin USB on Windows ARM64: TG765-ET WinUSB bridge"
 authors:
   - family-names: Norambuena
     given-names: Ignacio
+    website: "https://archidemus.me/"
+repository-code: "https://github.com/archidemus/touchwin-winusb-arm64"
+url: "https://github.com/archidemus/touchwin-winusb-arm64"
 version: 0.1.0
 license: LicenseRef-TouchWin-WinUSB-Community-1.0
 keywords:

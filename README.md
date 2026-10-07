@@ -4,7 +4,7 @@
 
 **English:** Independent WinUSB bridge for XINJE TouchWin USB-B project downloads on Windows ARM64. Tested on TG765-ET in VMware Fusion on Apple Silicon.
 
-[Instalación](#instalación) · [Preguntas frecuentes](#preguntas-frecuentes) · [Contribuir](CONTRIBUTING.md) · [Licencia](LICENSE)
+[Instalación](#instalación) · [Preguntas frecuentes](#preguntas-frecuentes) · [Contribuir](CONTRIBUTING.md) · [Licencia](LICENSE) · [Ignacio Norambuena — archidemus.me](https://archidemus.me/)
 
 ## Qué resuelve
 
@@ -138,9 +138,17 @@ La licencia comunitaria reserva la redistribución y las menciones o promociones
 
 No. Es **código disponible / source available con contribución comunitaria**. La restricción específica a XINJE no cumple la definición de open source de la OSI.
 
+## Apoyar el proyecto
+
+Si este puente te ayudó, considera [darle una estrella en GitHub](https://github.com/archidemus/touchwin-winusb-arm64) para seguir el proyecto y ayudar a que otras personas lo descubran. Puedes contribuir sin escribir código: comparte una prueba de compatibilidad, reporta un fallo o mejora la documentación siguiendo [CONTRIBUTING.md](CONTRIBUTING.md).
+
+Si compartes una guía o una solución basada en este trabajo, agradecemos que enlaces al repositorio y a [Ignacio Norambuena — archidemus.me](https://archidemus.me/) como autor del proyecto original.
+
+**English:** If this bridge helped you, consider starring the repository. Compatibility reports, documentation improvements and reviewed pull requests are welcome; see [Contributing](CONTRIBUTING.md). Original project by [Ignacio Norambuena](https://archidemus.me/).
+
 ## Autor, licencia y contacto
 
-Trabajo original de **Ignacio Norambuena** · [archidemus](https://github.com/archidemus) · [ignacio@archidemus.me](mailto:ignacio@archidemus.me).
+Trabajo original de **Ignacio Norambuena** · [archidemus.me](https://archidemus.me/) · [archidemus](https://github.com/archidemus) · [ignacio@archidemus.me](mailto:ignacio@archidemus.me).
 
 La [licencia personalizada](LICENSE) permite uso, modificación y redistribución comunitarios, incluso comerciales, con sus condiciones. Las autorizaciones comerciales de XINJE se negocian con el titular; no existe una tarifa o deuda automática.
 

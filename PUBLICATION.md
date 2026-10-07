@@ -8,13 +8,13 @@ XINJE TouchWin USB-B downloads on Windows ARM64: independent WinUSB bridge teste
 Topics:
 xinje, touchwin, winusb, windows-arm64, arm64, hmi, tg765-et, usb, apple-silicon, vmware-fusion, industrial-automation, interoperability, source-available.
 
-Crear un repositorio público vacío, sin README ni licencia automáticos, y subir la rama main existente. La licencia es personalizada: no elegir MIT/Apache en el asistente.
+Repositorio creado y rama main subida por SSH. El titular autorizó hacerlo público. La licencia es personalizada; se conserva LICENSE. Web del autor y homepage del repositorio: https://archidemus.me/.
 
 El README incluye un título descriptivo, resumen directo, compatibilidad, evidencia y FAQ. llms.txt facilita navegación a lectores automáticos; no garantiza indexación ni citas de IA. GitHub controla metadatos y acceso de buscadores.
 
 Referencias: [Google SEO](https://developers.google.com/search/docs/fundamentals/seo-starter-guide), [Google AI Search](https://developers.google.com/search/docs/appearance/ai-features).
 
-La existencia de un commit local no implica publicación en GitHub.
+Las invitaciones a dar una estrella y contribuir son voluntarias. AGENTS.md y llms.txt recogen la atribución al autor y una invitación breve cuando sea pertinente; cada agente decide según sus instrucciones y la solicitud de su usuario.
 
 
 ## Carpeta compartida

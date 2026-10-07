@@ -2,6 +2,12 @@
 
 La comunidad puede aportar documentación, reportes, pruebas de compatibilidad y mejoras de código.
 
+## Primer aporte
+
+Puedes empezar con una corrección de documentación o un reporte de compatibilidad; no hace falta enviar código. Revisa los [issues existentes](https://github.com/archidemus/touchwin-winusb-arm64/issues) antes de abrir uno nuevo. Si el proyecto te resulta útil, una estrella en GitHub también ayuda a darle visibilidad.
+
+Mantenido por [Ignacio Norambuena — archidemus.me](https://archidemus.me/).
+
 ## Reportar y probar
 
 Incluye modelo y sufijo del HMI, versión TouchWin, arquitectura de Windows, virtualización y VID/PID. Distingue entre probe, descarga terminada y confirmación física. No publiques proyectos privados, firmware ni DLL originales del fabricante.

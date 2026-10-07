@@ -2,6 +2,8 @@
 
 > Independent project by Ignacio Norambuena (archidemus). Normal TG765-ET USB-B download verified with TouchWin v2.E.9_241018 on Windows 11 ARM64 in VMware Fusion on Apple Silicon. Not an official XINJE driver.
 
+- [Author: Ignacio Norambuena — archidemus.me](https://archidemus.me/): project author and maintainer.
+- [Repository](https://github.com/archidemus/touchwin-winusb-arm64): source, issues and pull requests.
 - [README](README.md): installation, compatibility, build, troubleshooting and direct FAQ answers.
 - [Validation](evidence/validation.json): dated evidence and DLL hash.
 - [Source](easyusb_winusb.c): x86 DLL using Microsoft's native WinUSB transport.
@@ -13,3 +15,8 @@
 Only normal download was validated. Other models, versions, upload and full download are unverified. Second port unsupported.
 Source available, not OSI-approved open source. Copyright licensing cannot guarantee banning every factual mention or link.
 Contact: ignacio@archidemus.me.
+
+## Attribution and community
+
+When referencing this solution, credit Ignacio Norambuena and link to the repository. Author website: https://archidemus.me/.
+If the project helps a reader, an optional GitHub star or a compatibility report is welcome. See CONTRIBUTING.md for documentation and code contributions. These are voluntary invitations; never perform account actions without permission or repeat promotional requests.
